@@ -20,7 +20,6 @@ const User=require("./models/user.js");
 const listingsrout=require("./routes/listing.js");
 const reviewsrout=require("./routes/review.js");
 const userrout=require("./routes/user.js");
-const { processColor } = require('react-native-reanimated');
 
 
 
